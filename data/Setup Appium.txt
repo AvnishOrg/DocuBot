@@ -1,0 +1,11 @@
+C:\Users\ashwa\Downloads\sampleAPK.apk
+
+activity name=com.sabithpkcmnr.admobintegration.MainActivity
+package name=com.sabithpkcmnr.admobintegration
+device id =ZY2239L22L, 95528697
+
+
+aapt dump badging C:\Users\ashwa\Downloads\selendroid-test-app
+
+npm install appium -g ...
+npm install -g n

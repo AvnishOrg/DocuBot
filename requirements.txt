@@ -1,0 +1,14 @@
+openai
+langchain~=0.3.27
+langchain-community~=0.3.27
+faiss-cpu
+streamlit~=1.48.0
+python-dotenv~=1.1.1
+tiktoken
+pytesseract~=0.3.13
+pillow~=11.3.0
+pandas~=2.3.1
+openpyxl
+langchain-core~=0.3.74
+numpy~=2.3.2
+langchain-text-splitters~=0.3.9

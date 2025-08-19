@@ -1,0 +1,10 @@
+Python is a versatile programming language.
+It is used in web development, data science, and automation testing.
+Selenium is often used with Python for UI test automation.
+Shahrukhkhan is a famous actor in bollywood.
+Tajmahal is in agra.
+Delhi is the capital of India.
+I live in Noida.
+Famous breakfast dish is kachori sabji in my Home town.
+I belong to Agra.
+Salman khan is another famous actor in bollywood.
